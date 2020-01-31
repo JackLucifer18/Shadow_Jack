@@ -77,7 +77,7 @@ system ('clear')
 login = str(input("Setiap Pengguna Memiliki Kode Berbeda Yang Hanya Bisa Didapat Dari Author. \nMasukan Kode Login Anda : "))
 
 #~~~~~~~~kode Login~~~~~~
-if login == ("Tio159"):
+if login == ("Revan5582"):
 #~~~~~~~~~~~~~~~~~~~~~~~~
 	print ("Login Berhasil")
 	Running()
