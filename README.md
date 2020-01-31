@@ -7,9 +7,9 @@ Script Atau Tools Ini Berfungsi Untuk Pembuatan Virus Hapus Data, Cara Memakainy
 $ pkg update &&pkg upgrade
 $ pkg install python
 $ git clone https://github.com/JackLucifer89/Shadow_Jack.git
-$ cd Jack_Shadow_Revan
+$ cd Jack_Shadow
 $ python3 main.py
-
+ 
 Jangan Di Recode, Tanpa Seizin Admin, JikaKetahuan Tanggung Sendiri Akibatnya
 
 Jika Ada Bug atau Error Hubungi Admin.
