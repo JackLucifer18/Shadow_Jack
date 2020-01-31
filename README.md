@@ -10,3 +10,8 @@ $ git clone https://github.com/JackLucifer89/Jack_Shadow_Revan.git
 $ cd Jack_Shadow_Revan
 $ python3 main.py
 
+Jangan Di Recode, Tanpa Seizin Admin, JikaKetahuan Tanggung Sendiri Akibatnya
+
+Jika Ada Bug atau Error Hubungi Admin.
+
+Temukan Tools Lainnya Di Github Ku Dan SinBox.WhatsAp
